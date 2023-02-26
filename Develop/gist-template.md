@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Webscraping Regex Tutorial
 
 Introductory paragraph (replace this with your text)
 
@@ -45,5 +45,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ### Look-ahead and Look-behind
 
 ## Author
+
+* For questions, you may contact me on GitHub: [lutz143](https://github.com/lutz143)
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
